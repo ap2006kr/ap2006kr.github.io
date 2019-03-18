@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Blog
 
 You can use the [editor on GitHub](https://github.com/ap2006kr/ap2006kr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
